@@ -22,5 +22,5 @@ javac GameTest.java
 
 ### Run the Game
 ```sh
-java GameTest
+java TestGame
 ```
