@@ -1,4 +1,4 @@
-# **Number Guessing Game using Java (OOPS)`**
+# **Number Guessing Game using Java (OOPS) 🧩`**
 
 > This repository contains a Number Guessing Game implemented using Object-Oriented Programming (OOP) principles in Java. The game allows players to guess a randomly generated number within a specified range.
 
